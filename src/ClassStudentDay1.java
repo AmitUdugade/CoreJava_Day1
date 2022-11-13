@@ -2,7 +2,7 @@ public class ClassStudentDay1 {
     public static void main(String[] args) {
 
         //Day1 Demo
-        System.out.println("This is Day1 of the class");
+        System.out.println("This is Sample Data of Laptop ");
         Student obj1 = new Student();
         obj1.setName("Amit");
         obj1.setRollno(1);
